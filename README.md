@@ -365,7 +365,7 @@ This project demonstrates the application of SQL skills in creating and managing
    https://github.com/Adithya-DSAIML/Library-System-Management
    ```
 3. **Run the Queries**: Setup the Database and use the SQL queries in the `Library_Management.sql` file to perform the analysis.
-4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
+4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or to answer additional questions.
 
 ## Author - Adithya Anand
 
